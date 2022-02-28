@@ -11,6 +11,6 @@
 | [Защита персональных данных клиентов](c6e11f1e-c6e9-4d48-ab16-1d5c2c50653a) | Линейная алгебра | *pandas, numpy, LinearRegression* |
 | [Определение стоимости автомобилей](c578283bc-1fcc-49dd-af05-1698d71a2c7d) | Численные методы | *pandas, numpy, seaborn, matplotlib, CatBoostRegressor, Pool, train_test_split, mean_squared_error, RandomForestRegressor, LGBMRegressor, OrdinalEncoder, GridSearchCV* |
 | [Прогнозирование заказов такси](976df3b7-f017-4f69-8370-ada13b6c7027) | Временные ряды | *pandas, numpy, seasonal_decompose, matplotlib, CatBoostRegressor, Pool, train_test_split, TimeSeriesSplit, mean_squared_error, RandomForestRegressor, LGBMRegressor, OrdinalEncoder, GridSearchCV* |
-| [Проект для «Викишоп»](Untitled2) | Машинное обучение для текста | * pandas, numpy, nltk_stopwords, TfidfVectorizer, re, pymystem3, CatBoostRegressor, Pool, train_test_split, accuracy_score, f1_score, notebook, torch, transformers* |
+| [Проект для «Викишоп»](Untitled2) | Машинное обучение для текста | *pandas, numpy, nltk_stopwords, TfidfVectorizer, re, pymystem3, CatBoostRegressor, Pool, train_test_split, accuracy_score, f1_score, notebook, torch, transformers* |
 | [Аналитика в авиакомпании](09c0175b-2bd6-448d-842e-cd23bf319d89) | Извлечение данных | *pyspark, matplotlib, seaborn* |
 | [Определение возраста покупателей](f524969e-4512-42d5-9bb7-925266d8034b) | Компьютерное зрение | *pandas, matplotlib, seaborn, numpy, tensorflow.keras* |
