@@ -1,7 +1,7 @@
 
 | Название проекта | Тема| Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Исследование объявлений о продаже квартир](/01-исследовательский-анализ-данных) | Исследовательский анализ данных | *pandas, numpy, matplotlib, seaborn, sys, re* |
+| [Исследование объявлений о продаже квартир](projects/01-исследовательский-анализ-данных) | Исследовательский анализ данных | *pandas, numpy, matplotlib, seaborn, sys, re* |
 | [Определение перспективного тарифа для телеком-компании](5659eb1d-749d-4498-9dba-8bde98849a4b) | Статистический анализ данных | *pandas, numpy, matplotlib, seaborn, scipy* |
 | [Исследование определяющих закономерностей успешности игры](6393e9c7-b4f3-4765-883b-ad426db186e4) | Сборный проект - 1 | *pandas, numpy, matplotlib, seaborn, scipy* |
 | [Рекомендация тарифов](7f850db4-f7ae-40b2-a9b6-a4c91e440c49) | Введение в машинное обучение | *pandas, numpy, DecisionTreeClassifier, LogisticRegression, RandomForestClassifier, DummyClassifier, mean_squared_error, accuracy_score, train_test_split* |
